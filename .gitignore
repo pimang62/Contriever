@@ -1,0 +1,16 @@
+# model
+checkpoint/
+
+# dataset
+*_dataset/
+*.tsv
+
+# cache
+__pycache__/
+
+# log
+logs/
+
+# output
+output/
+contriever_*/
